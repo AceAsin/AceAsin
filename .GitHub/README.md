@@ -1,7 +1,10 @@
-
 <div align='center'>
 
 # **Ace Asin**
+
+</div>
+
+<div align='center'>
 
   <!-- <br />
   <p>
@@ -9,11 +12,14 @@
   </p> -->
 
   <p>
-    <a href='htpps://aceasin.com'><image alt='Website' src='https://img.shields.io/website?down_color=%23FF0000&down_message=Offline&label=aceasin.com&style=for-the-badge&up_color=00FF00&up_message=Online&url=https%3A%2F%2Faceasin.com&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAA80lEQVQ4T2NkoBAwUqifgfYGbNy4Ucrf3/8ZLpcSdIGKisr/O3fu4FSH14BTp06lPn36dFZgYCB5BoCcfeDAgdMODg6CDAwMKti8gdPk////szAyMv4BaTI1Nf1/+vRprGrxeYGJgYHhH8iAkydP/jc3NxdjYGB4je4KgoEI0nDkyBFeGxubTwwMmNGO1YBNmzal+Pn5zUG2bdOmTf/9/Pww1GM1QEpKatKzZ8/ykA34+vXreW5ubkUGBgYBZHEUA37+/OkvKCho8O3bN5Cal9OmTbvAysrKYGZmxuDs7Oz+5s0bkDhIshtmCFFhgC+/DLwBACQ2RREVWcQCAAAAAElFTkSuQmCC'>
-    <a href='https://discord.gg/U8vHS7y'><image alt='Discord' src='https://img.shields.io/discord/492294696912158720?color=7289DA&label=%CE%9BCE%20%CE%9BSIN%E2%84%A2&logo=Discord&logoColor=FFFFFF&style=for-the-badge'>
-    <a href='https://github.com/AceAsin'><image alt='GitHub' src='https://img.shields.io/github/followers/AceAsin?color=24292E&logo=GitHub&label=%40AceAsin&style=for-the-badge'>
-    <a href='https://twitter.com/AceAsin'><image alt='Twitter' src='https://img.shields.io/twitter/follow/AceAsin?color=1DA1F2&logo=Twitter&label=%40AceAsin&style=for-the-badge'>
-    <image alt='Test' src='https://badgen.net/badge/:subject/AceAsin/000000?icon=github'>
+    <a href='htpps://aceasin.com' title='Ace Asin'><image alt='Website' src='https://img.shields.io/website?down_color=%23FF0000&down_message=Offline&label=aceasin.com&style=for-the-badge&up_color=00FF00&up_message=Online&url=https%3A%2F%2Faceasin.com&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAACXElEQVQ4jY2SzWsaYRDGn1XR4Cor2lhJQEGiKWWDOQQ0xxUlkEt6sYdCQSghbaGQUHIR+g8UzSntoRAEqQilLYVCRTwVhBwTAjloEPwIdquiy+LW3Sa7Ka/QYpotdOCB9zDze2fmGero6Ah6QVEUZmdnkclknuzt7b0H0NPLM5VKJV3A1dUVPB5PkGGY1wC+AfikCzg9PdUtJsHz/IrL5SLPxD8BsVhMtwOGYayiKFZkWW4tLy8/OD4+3tYdYzAY3NBoNMLJyYl/a2sL2Wz26c7ODmnpmd5Hhna7jb8lSZJpf3/feHBwgPF4/IFlWbhcrm1dwNzcHKY1Pz+Pi4sLZ6/XGycSCQyHw+8zMzOfo9GoH8DqDYCiKJiWyWRCpVKhDw8PB51OBzRNo9vtZpaWlkj+4xuAfr+PacmybM/n8wae5390u91J0mg0+ur3+wcsyz4EYLsGCAaD8Pl8E4VCIQiCcKtcLiu/7SQHpWkaLi8vX8XjcQrA/WuAYrGIer1Oto7z83OqUChAVVWeFMqyDFEUYTabyU28CQQCsNlsu9MAo9PphN1uh8ViQbVapdPptEVRFIEsM5VKYXFxEbVajbghLiwscIIgrJydnb0D0J90YDAY4HA4wHEcWq3WarPZJC4gl8thc3MT6+vr2NjYgNVqRaPReBkOh2E0Gp//GYG0JwgCGeGuJEkfAfgZhplYSkKSJEQiESSTSeLGF4qiBK/X+4jkTQCaptEOh+MewzBvq9WqHcALVVUjkiTdBuBTVdWnaRqRh+O4O2tra2232/0TQBYAq3dc/x8AfgEP5iPFlLaHggAAAABJRU5ErkJggg=='>
+    <a href='https://discord.gg/U8vHS7y' title='Discord'><image alt='Discord' src='https://img.shields.io/discord/492294696912158720?color=7289DA&logoColor=FFFFFF&label=%CE%9BCE%20%CE%9BSIN%E2%84%A2&logo=Discord&style=for-the-badge'>
+    <a href='https://twitch.tv/AceAsin' title='Twitch'><image alt="Twitch" src="https://img.shields.io/twitch/status/AceAsin?color=9146FF&label=%40AceAsin&logo=Twitch&logoColor=FFFFFF&style=for-the-badge">
+    <a href='https://github.com/AceAsin' title='GitHub'><image alt='GitHub' src='https://img.shields.io/github/followers/AceAsin?color=24292E&logo=GitHub&logoColor=FFFFFF&label=%40AceAsin&style=for-the-badge'>
+    <a href='https://twitter.com/AceAsin' title='Twitter'><image alt='Twitter' src='https://img.shields.io/twitter/follow/AceAsin?color=1DA1F2&logo=Twitter&logoColor=FFFFFF&label=%40AceAsin&style=for-the-badge'>
+    <a href='https://patreon.com/AceAsin' title='Patreon'><image src='https://img.shields.io/endpoint?url=https%3A%2F%2Faceasin-patreon.herokuapp.com%2FAceAsin&color=FF5441&label=Patreon&logo=Patreon&logoColor=FFFFFF&style=for-the-badge'/>
+    <a href='https://paypal.me/AceAsin' title='PayPal'><image alt='PayPal' src='https://img.shields.io/badge/PayPal-Donate-009CDE?logo=PayPal&logoColor=FFFFFF&label=PayPal&style=for-the-badge'/>
+    <a href='https://ko-fi.com/aceasin' title='Ko-Fi'><image alt='Ko-Fi' src='https://img.shields.io/badge/Ko--Fi-Buy-FBAA19?logo=Ko-Fi&logoColor=FFFFFF&style=for-the-badge'/>
   </p>
 
   ![Ace Asin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AceAsin&title_color=FF0000&text_color=FFFFFF&icon_color=FF0000&bg_color=DEG,000000,808080&cache_seconds=1800&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true)
