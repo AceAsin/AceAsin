@@ -19,14 +19,45 @@
     <a href='https://twitter.com/AceAsin' title='Twitter'><image alt='Twitter' src='https://img.shields.io/twitter/follow/AceAsin?color=1DA1F2&logo=Twitter&logoColor=FFFFFF&label=%40AceAsin&style=for-the-badge'>
     <a href='https://patreon.com/AceAsin' title='Patreon'><image src='https://img.shields.io/endpoint?url=https%3A%2F%2Faceasin-patreon.herokuapp.com%2FAceAsin&color=FF5441&label=Patreon&logo=Patreon&logoColor=FFFFFF&style=for-the-badge'/>
     <a href='https://paypal.me/AceAsin' title='PayPal'><image alt='PayPal' src='https://img.shields.io/badge/PayPal-Donate-009CDE?logo=PayPal&logoColor=FFFFFF&label=PayPal&style=for-the-badge'/>
-    <a href='https://ko-fi.com/aceasin' title='Ko-Fi'><image alt='Ko-Fi' src='https://img.shields.io/badge/Ko--Fi-Buy-FBAA19?logo=Ko-Fi&logoColor=FFFFFF&style=for-the-badge'/>
+    <a href='https://ko-fi.com/aceasin' title='Ko-Fi'><image alt='Ko-Fi' src='https://img.shields.io/badge/Ko--Fi-Buy-FF5E5B?logo=Ko-Fi&logoColor=FFFFFF&style=for-the-badge'/>
   </p>
 
-  ![Ace Asin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AceAsin&title_color=FF0000&text_color=FFFFFF&icon_color=FF0000&bg_color=DEG,000000,808080&cache_seconds=1800&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true)
+  ![Ace Asin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AceAsin&title_color=FF0000&text_color=FFFFFF&icon_color=FF0000&bg_color=DEG,000000,808080&hide_border=true&cache_seconds=1800&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true)
 
-  ![Ace Asin's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AceAsin&title_color=FF0000&text_color=FFFFFF&icon_color=FF0000&bg_color=DEG,000000,808080&cache_seconds=1800&hide_title=true&layout=default&card_width=495&)
+  ![Ace Asin's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AceAsin&title_color=FF0000&text_color=FFFFFF&icon_color=FF0000&bg_color=DEG,000000,808080&hide_border=true&cache_seconds=1800&hide_title=true&layout=default&card_width=495&langs_count=10)
+
+  ![Ace Asin's WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=AceAsin&title_color=FF0000&text_color=FFFFFF&icon_color=FF0000&bg_color=DEG,000000,808080&hide_border=true&cache_seconds=1800&hide_title=true)
+
+  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AceAsin&repo=BloodborneSDK)](https://github.com/AceAsin/BloodborneSDK)
+
+  [![Spotify](https://spotify-stats.aceasin.vercel.app/api/spotify)](https://open.spotify.com/user/AceAsin)
 
 </div>
+
+<!-- <table><tr>
+<td width="50%">
+  <a href="https://github.com/AceAsin/BloodborneSDK"><img alt="Ace Asin" src="https://github-readme-stats.vercel.app/api/pin/?username=AceAsin&repo=BloodborneSDK&cache_seconds=1800">
+  </a>
+</td>
+
+<td width="50%">
+  <a href="https://github.com/donnemartin/awesome-aws"><img alt="Build" src="https://github-readme-stats.vercel.app/api/pin/?username=AceAsin&repo=BloodborneSDK&cache_seconds=1800">
+  </a>
+</td>
+</tr>
+
+<tr>
+  <td width="50%">
+  <a href="https://github.com/jamesgeorge007/github-activity-readme"><img alt="Build" src="https://github-readme-stats.vercel.app/api/pin/?username=AceAsin&repo=BloodborneSDK&cache_seconds=1800">
+  </a>
+  </td>
+
+  <td width="50%">
+  <a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme"><img alt="Build" src="https://github-readme-stats.vercel.app/api/pin/?username=AceAsin&repo=BloodborneSDK&cache_seconds=1800">
+  </a>
+  </td>
+</tr>
+</table> -->
 
 <!-- ---
 
@@ -45,7 +76,7 @@ Test
 <details>
 
   <summary>Recent Github Activity</summary>
-  
+
   1. ...
   2. ...
   3. ...
