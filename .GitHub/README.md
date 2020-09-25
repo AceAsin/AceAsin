@@ -28,9 +28,7 @@
 
   ![Ace Asin's WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=AceAsin&title_color=FF0000&text_color=FFFFFF&icon_color=FF0000&bg_color=DEG,000000,808080&hide_border=true&cache_seconds=1800&hide_title=true)
 
-  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AceAsin&repo=BloodborneSDK)](https://github.com/AceAsin/BloodborneSDK)
-
-  [![Spotify](https://spotify-stats.aceasin.vercel.app/api/spotify)](https://open.spotify.com/user/AceAsin)
+<!--   [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AceAsin&repo=BloodborneSDK)](https://github.com/AceAsin/BloodborneSDK) -->
 
 </div>
 
