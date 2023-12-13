@@ -12,7 +12,7 @@
   </p> -->
 
   <p>
-    <a href='htpps://aceasin.com' title='Ace Asin'>
+    <a href='https://aceasin.com' title='Ace Asin'>
       <img alt='Website' src='https://img.shields.io/website?down_color=%23FF0000&down_message=Offline&label=aceasin.com&style=for-the-badge&up_color=00FF00&up_message=Online&url=https%3A%2F%2Faceasin.com&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAACXElEQVQ4jY2SzWsaYRDGn1XR4Cor2lhJQEGiKWWDOQQ0xxUlkEt6sYdCQSghbaGQUHIR+g8UzSntoRAEqQilLYVCRTwVhBwTAjloEPwIdquiy+LW3Sa7Ka/QYpotdOCB9zDze2fmGero6Ah6QVEUZmdnkclknuzt7b0H0NPLM5VKJV3A1dUVPB5PkGGY1wC+AfikCzg9PdUtJsHz/IrL5SLPxD8BsVhMtwOGYayiKFZkWW4tLy8/OD4+3tYdYzAY3NBoNMLJyYl/a2sL2Wz26c7ODmnpmd5Hhna7jb8lSZJpf3/feHBwgPF4/IFlWbhcrm1dwNzcHKY1Pz+Pi4sLZ6/XGycSCQyHw+8zMzOfo9GoH8DqDYCiKJiWyWRCpVKhDw8PB51OBzRNo9vtZpaWlkj+4xuAfr+PacmybM/n8wae5390u91J0mg0+ur3+wcsyz4EYLsGCAaD8Pl8E4VCIQiCcKtcLiu/7SQHpWkaLi8vX8XjcQrA/WuAYrGIer1Oto7z83OqUChAVVWeFMqyDFEUYTabyU28CQQCsNlsu9MAo9PphN1uh8ViQbVapdPptEVRFIEsM5VKYXFxEbVajbghLiwscIIgrJydnb0D0J90YDAY4HA4wHEcWq3WarPZJC4gl8thc3MT6+vr2NjYgNVqRaPReBkOh2E0Gp//GYG0JwgCGeGuJEkfAfgZhplYSkKSJEQiESSTSeLGF4qiBK/X+4jkTQCaptEOh+MewzBvq9WqHcALVVUjkiTdBuBTVdWnaRqRh+O4O2tra2232/0TQBYAq3dc/x8AfgEP5iPFlLaHggAAAABJRU5ErkJggg=='>
     </a>
     <a href='https://discord.gg/U8vHS7y' title='Discord'>
